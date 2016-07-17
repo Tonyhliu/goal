@@ -19,7 +19,7 @@ canvas {
 .header {
   font-family: 'Roboto', sans-serif;;
   text-align: center;
-  font-size: 80px;
+  font-size: 20px;
 }
 
 #myCanvas {
@@ -41,7 +41,7 @@ canvas {
   cursor: pointer;
 }
 
-.end, .new {
+.retry, .new {
   position: relative;
   text-align: center;
   z-index: 5;
