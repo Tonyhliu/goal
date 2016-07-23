@@ -8,8 +8,9 @@ Inspired by Atari's PONG, Goal is a 2D Javascript game, a showpiece for Javascri
 
 ## Features
 
-- Play against the AI, first to 7 points wins
+- Play against the AI, first to 5 points wins
 - Sound effects when game begins and when point is scored
+- Utilizes a velocity algorithm for ball collision with paddles
 
 ![gameplay](graphics/sample.png)
 
